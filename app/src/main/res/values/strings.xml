@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Fuck MIUI updates</string>
+    <string name="title_main">MIUI Update Killer</string>
+    <string name="btn_disable">Disable MIUI Updater</string>
+    <string name="btn_enable">Enable MIUI Updater</string>
+    <string name="btn_disable_google">Block Google Notifications</string>
+    <string name="btn_enable_google">Allow Google Notifications</string>
+</resources>

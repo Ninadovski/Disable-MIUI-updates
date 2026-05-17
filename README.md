@@ -1,2 +1,2 @@
-## Fuck MIUI updates
+## Disable MIUI updates
 Блокирует центр обновлений MUIU и убирает назойливые уведомления
